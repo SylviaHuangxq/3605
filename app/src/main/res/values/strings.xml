@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">3605</string>
+
+    <string-array name="department">
+        <item>Appliances</item>
+        <item>Bathrooms</item>
+        <item>Building</item>
+        <item>Doors</item>
+        <item>Gutter,Roofing</item>
+        <item>Hand Tools</item>
+        <item>Hot water</item>
+        <item>Industrial</item>
+        <item>Kitchens</item>
+        <item>Lighting</item>
+        <item>Locks</item>
+        <item>Paint,Decorating</item>
+        <item>Plumbing</item>
+        <item>Power Tools</item>
+        <item>Sealants,adhesives</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Blacktown</item>
+        <item>Brookvale</item>
+        <item>Dural</item>
+        <item>Hornsby</item>
+        <item>Mona Vale</item>
+        <item>Peakhurst</item>
+    </string-array>
+</resources>
